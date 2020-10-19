@@ -1,0 +1,4 @@
+{"index": {"_index": "cohostdata", "_type":"cohost","_id":1}}
+{"listid":"15" ,"nameone": "Terry Cruise", "imageurlone":"https://images.unsplash.com/photo-1598992156182-cc4fa54fdb52?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9", "nametwo": "Joe Cruise", "imageurltwo":"https://images.unsplash.com/photo-1597935108244-a6458c2ba6d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9", "id":1, "type":"add" }
+{"index": {"_index": "cohostdata", "_type":"cohost","_id":2}}
+{"listid":"16" ,"nameone": "Tony Montana", "imageurlone":"https://images.unsplash.com/photo-1598265003867-c3ddef58e560?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9", "nametwo": "Elvira Hancock", "imageurltwo":"https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9", "id":2, "type":"add" }
