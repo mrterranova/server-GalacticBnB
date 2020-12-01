@@ -1,7 +1,11 @@
-spring.flyway.url = ${DB_HOST}
-spring.flyway.username = ${DB_USERNAME}
-spring.flyway.password = ${DB_PASSWORD}
+spring: 
+  flyway: 
+    url : ${DB_HOST}
+    username : ${DB_USERNAME}
+    password : ${DB_PASSWORD}
 
-spring.datasource.url = ${DB_HOST}
-spring.datasource.username = ${DB_USERNAME}
-spring.datasource.password = ${DB_PASSWORD}
+spring:
+  datasource:
+    url : ${DB_HOST}
+    username : ${DB_USERNAME}
+    password : ${DB_PASSWORD}
