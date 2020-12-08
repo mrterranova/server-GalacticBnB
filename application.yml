@@ -1,11 +1,11 @@
-spring: 
-  flyway: 
-    url : ${DB_HOST}
-    username : ${DB_USERNAME}
-    password : ${DB_PASSWORD}
+# spring: 
+#   flyway: 
+#     url : ${DB_HOST}
+#     username : ${DB_USERNAME}
+#     password : ${DB_PASSWORD}
 
-spring:
-  datasource:
-    url : ${DB_HOST}
-    username : ${DB_USERNAME}
-    password : ${DB_PASSWORD}
+# spring:
+#   datasource:
+#     url : ${DB_HOST}
+#     username : ${DB_USERNAME}
+#     password : ${DB_PASSWORD}
